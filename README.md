@@ -4,6 +4,8 @@ Link to Kaggle profile: https://www.kaggle.com/edystan
 Username: Eduard Stan
 
 b. Link to project: https://github.com/EdyStan/titanic_spaceship
+EDA: https://github.com/EdyStan/titanic_spaceship/blob/main/EDA.ipynb
+solution: https://github.com/EdyStan/titanic_spaceship/blob/main/solution.ipynb
 
 c. After measuring performance for all models trained, I decided to stick with the Random Forest Classifier. A random forest model always leaves space for improvement, and I am absolutely sure that my solution can be improved even more, via various fine tune methods.
 
